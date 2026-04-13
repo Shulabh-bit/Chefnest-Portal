@@ -95,7 +95,7 @@ Screenshots
 4. Profile:! [Home](ScreenShots/ChefProfile.png)
 5. Dashboard:! [Home](ScreenShots/ChefDashboard.png)
 6. My Recipes: [Home](ScreenShots/ChefRecipes.png)
-7. Chef Directory:! [Home](ScreenShots/Chef%20Directory.png)
+7. Chef Directory:! [Home](ScreenShots/ChefDirectory.png)
 8. Admin Panel:! [Home](ScreenShots/AdminPanel.png)
 
 Submitted by: Shulabh
