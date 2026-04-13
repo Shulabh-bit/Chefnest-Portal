@@ -89,14 +89,14 @@ NODE_ENV=development
 
 Screenshots
 
-1. Landing Page:! [Home](ScreenShots/Landingpage.png)
-2. Register Page:! [Home](ScreenShots/RegisterPage.png)
-3. Login Page:! [Home](ScreenShots/LoginPage.png)
-4. Profile:! [Home](ScreenShots/ChefProfile.png)
-5. Dashboard:! [Home](ScreenShots/ChefDashboard.png)
-6. My Recipes: [Home](ScreenShots/ChefRecipes.png)
-7. Chef Directory:! [Home](ScreenShots/Chef%20Directory.png)
-8. Admin Panel:! [Home](ScreenShots/AdminPanel.png)
+1. Landing Page:! [Home](frontend/ScreenShots/Landingpage.png)
+2. Register Page:! [Home](frontend/ScreenShots/RegisterPage.png)
+3. Login Page:! [Home](frontend/ScreenShots/LoginPage.png)
+4. Profile:! [Home](frontend/ScreenShots/ChefProfile.png)
+5. Dashboard:! [Home](frontend/ScreenShots/ChefDashboard.png)
+6. My Recipes: [Home](frontend/ScreenShots/ChefRecipes.png)
+7. Chef Directory:! [Home](frontend/ScreenShots/ChefDirectory.png)
+8. Admin Panel:! [Home](frontend/ScreenShots/AdminPanel.png)
 
 Submitted by: Shulabh
 Kathmandu
